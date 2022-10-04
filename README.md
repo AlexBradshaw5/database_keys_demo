@@ -41,3 +41,15 @@ A foreign key is a key that refers to the primary key in another table.
 
 ## Conclusion
 DataBase Keys are fundamental tool to create and manage a database management system, strong understanding and assignment of keys are detrimental to traverse the DBMS smoothly.
+
+## 
+## Technical Specifications
+
+To use this notebook you need to run the following command:
+```
+git clone https://github.com/maneelusf/dbkeys_repo.git
+```
+You also need the following python libraries:
+```
+tabulate
+sqllite3
