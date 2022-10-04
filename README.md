@@ -39,5 +39,5 @@ A foreign key is a key that refers to the primary key in another table.
 3. It can also be understood as a primary key made by the combination of two or more attributes to uniquely identify every row in a table.
 
 
-### Conclusion
+## Conclusion
 DataBase Keys are fundamental tool to create and manage a database management system, strong understanding and assignment of keys are detrimental to traverse the DBMS smoothly.
