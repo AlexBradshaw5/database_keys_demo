@@ -1,6 +1,6 @@
 # DataBase Keys
 
-**By**: Nishchal Mishra, Maneel Reddy, Yu Hsin Wang, Alex Bradshaw.
+**By**: Nishchal Mishra, Maneel Reddy, Yu Hsin Wang, **Alex Bradshaw**.
 
 This repository contains our group presentation for our MSDS 610: Communication for Analytics course, where we are presenting our views on the importance of DataBase Keys.
 
